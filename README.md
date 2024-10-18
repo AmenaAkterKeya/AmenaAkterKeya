@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 --> 
 <img src="https://github.com/AmenaAkterKeya/AmenaAkterKeya/blob/main/cover.png">
 [![](https://visitcount.itsvg.in/api?id=AmenaAkterKeya&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/amenaakterkeya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amenaakeya) 
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/amenaakterkeya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amenaakeya)
+
 
 
 
