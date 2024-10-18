@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=AmenaAkterKeya&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/amenaakterkeya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amenaakeya) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white&style=for-the-badge&scale=2)](https://behance.net/amenaakterkeya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&scale=2)](https://linkedin.com/in/amenaakeya)
+
 
 
 # 💻 Tech Stack:
