@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 #  Contact
-<hr>
+
 <p>Feel free to reach out to me or connect with me on <a href="https://www.linkedin.com/in/amenaakeya/">LinkedIn.</a></p>
 <p>You can also find me on:</p>
 
