@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 --> 
 <img src="https://github.com/AmenaAkterKeya/AmenaAkterKeya/blob/main/cover.png">
-# About Me
+## About Me
 <p>I am Amena Akter Keya. I am a passionate software developer and problem solver skilled in multiple programming languages and technologies. I love sharing my knowledge through teaching. If you want to learn more about what I do, please follow me!
 </p>
 [![](https://visitcount.itsvg.in/api?id=AmenaAkterKeya&icon=6&color=0)](https://visitcount.itsvg.in)
