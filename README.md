@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://github.com/AmenaAkterKeya/AmenaAkterKeya/blob/main/cover.png">
+
 
 ## About Me
 
